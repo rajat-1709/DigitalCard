@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.card-head{
+  
+
+  position: absolute;
+  width: 550px;
+  height: 868px;
+  left: 65px;
+  top: 53px;
+  left: 70vh;
+  border-radius: 5px;
+
+  
+  background: #23252C;
+}
+
