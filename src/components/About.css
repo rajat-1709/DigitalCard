@@ -36,7 +36,7 @@ color: #FFFFFF;
 
 .address
 {
-    ;
+    
     position: absolute;
     width: 228px;
     height: 16px;
@@ -178,6 +178,25 @@ border-radius: 6px;
 width: 16px;
 height: 16px;
 left: 26.5px;
+top: 9px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 8px;
+}
+
+.linkedinicon{
+    /* Icon/Font Awesome Free/Brands/L/linkedin */
+
+
+position: static;
+width: 16px;
+height: 16px;
+left: 16px;
 top: 9px;
 
 

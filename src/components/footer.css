@@ -1,0 +1,50 @@
+.bg-borders{
+position: absolute;
+width: 317px;
+height: 64px;
+left: 116px;
+top: 775px;
+
+background: #161619;
+border-radius: 0px 0px 10px 10px;
+}
+.tweeter
+{
+position: absolute;
+left: 17.36%;
+right: 61.09%;
+top: 27.75%;
+bottom: 7.37%;
+background: #918E9B;
+
+}
+.facebook
+{
+position: absolute;
+left: 35.36%;
+right: 61.09%;
+top: 27.75%;
+bottom: 7.37%;
+background: #918E9B;
+
+}
+.discord
+{
+position: absolute;
+left: 54.36%;
+right: 30.09%;
+top: 27.75%;
+bottom: 7.37%;
+background: #918E9B;
+
+}
+.github
+{
+position: absolute;
+left: 75.36%;
+right: 30.09%;
+top: 27.75%;
+bottom: 7.37%;
+background: #918E9B;
+
+}

@@ -40,15 +40,13 @@
 .card-head{
   
 
-  position: absolute;
-  width: 550px;
-  height: 868px;
+  position: relative;
+  width: 527px;
+  height: 879px;
   left: 65px;
   top: 53px;
   left: 70vh;
   border-radius: 5px;
-
-  
   background: #23252C;
 }
 
